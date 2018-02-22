@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Tissue_Admin.Master" AutoEventWireup="true" CodeBehind="NewTissue.aspx.cs" Inherits="TissueTrack.NewTissue" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 </asp:Content>
-<asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
+<asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">   
             <div class="row mt">
           		<div class="col-lg-12">     
           			<div class="form-panel">
