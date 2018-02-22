@@ -3,7 +3,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
             <div class="row mt">
-          		<div class="col-lg-12">
+          		<div class="col-lg-12">     
           			<div class="form-panel">
                   	  <h4 class="mb"><i class="fa fa-angle-right"></i> New Tissue</h4>
                       <form class="form-inline" role="form">
